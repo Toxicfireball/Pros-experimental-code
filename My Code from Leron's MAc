@@ -1,6 +1,7 @@
 
 //Note: PROS is experiencing download issues and issues with Leron;s mac. Cannot download without errors. PROGRAM CANNOT RUN as of 5/6/2019
 // Note: My juniors (Malcom and Angerina) have figurred out the downloading issues Too bad I step down alr :(. They will be using PROS is 2020 Nationals. As of December 2019.
+// Note: Some code seems to have been lost in the transfer from Leron's Macbook to my PC :(
 #include "main.h"
 // * Runs the operator control code. This function will be started in its own task
 // * with the default priority and stack size whenever the robot is enabled via
